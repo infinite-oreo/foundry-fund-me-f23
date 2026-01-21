@@ -1,4 +1,4 @@
-# Foundry Fund Me (F23)
+# Foundry Fund Me
 
 A simple crowdfunding contract built with Foundry. It accepts ETH contributions, enforces a minimum USD value using a Chainlink price feed, and allows only the owner to withdraw. Includes deployment and interaction scripts plus unit/integration tests.
 
